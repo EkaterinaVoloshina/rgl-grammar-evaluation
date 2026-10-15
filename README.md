@@ -1,0 +1,3 @@
+- `code`: code for evaluation and calculation of scores
+- `corrections`: data with added corrections from models
+- `post_edited`: results from human evaluation
